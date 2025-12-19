@@ -8,9 +8,9 @@ int main() {
     //
     // This is a line in the original file that was removed while editing.
     // 
-	// Every line in the patch file starts with a space (context), - (removal), or + (addition).
-	// The full line then follows, including leading whitespace (notice tabs instead of spaces here)
-	//
-	//
+// Every line in the patch file starts with a space (context), - (removal), or + (addition).
+// The full line then follows, including leading whitespace (these lines aren't indented)
+//
+//
     return 0;
 }
